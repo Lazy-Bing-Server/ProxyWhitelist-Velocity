@@ -1,0 +1,1 @@
+@xcopy /QEY build\libs\VelocityProxyWhitelist-0.1-SNAPSHOT-all.jar ..\run\server\plugins\
